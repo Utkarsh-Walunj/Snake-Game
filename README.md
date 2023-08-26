@@ -1,2 +1,2 @@
 # Snake-Game
-This is a snake game made by using JavaScript and CSS.
+This is a snake game made by using JSt and CSS.
